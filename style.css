@@ -74,3 +74,8 @@
 input:focus{
     color: #E02C6D;
 }
+.card:hover{
+    transform: scale(1.03);
+    transition: transform 2s;
+    overflow: hidden;
+}

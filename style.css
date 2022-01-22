@@ -23,3 +23,54 @@
 .banner-color{
     background-color: #FEEAE9;
 }
+.cat-1{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.catagories-section{
+    margin-top: 100px;
+}
+.header-cat{
+    margin-left: 3%;
+    padding: 2%;
+    font-weight: 700;
+    margin-top: 5%;
+}
+.shoes-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: #F4F4F4;
+}
+
+.button-primary-2{
+    border-radius: 10px;
+    background-color: #000000;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 7px 14px;
+    
+}
+.button-primary-2:hover{
+    transform: scale(1.04);
+    transition: transform 3s ease-in;
+    background-color: white;
+    color: #000000;
+    border: 1px solid #000000;
+}
+
+.price-btn-2{
+    margin-top: 5px;
+}
+.email-div{
+    background-color: #FFF2F1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 10px;
+    margin-bottom: 100px;
+}
+input:focus{
+    color: #E02C6D;
+}

@@ -1,0 +1,25 @@
+.button-primary{
+    border-radius: 10px;
+    background-color: #E02C6D;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 7px 14px;
+}
+.button-primary:hover{
+    transform: scale(1.04);
+    transition: transform 3s ease-in;
+    background-color: white;
+    color: #E02C6D;
+    border: 1px solid #E02C6D;
+}
+.price-btn .button-primary{
+    margin-top: 20px;
+}
+.header-price{
+    color:#E02C6D;
+    margin-bottom: 10px;
+}
+.banner-color{
+    background-color: #FEEAE9;
+}
